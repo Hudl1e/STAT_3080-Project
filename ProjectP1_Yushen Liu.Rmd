@@ -266,3 +266,8 @@ Retrieved from [https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD](https://
 
 [2] World Health Organization. (2024). *Global Health Observatory: Life expectancy data by country and sex*.  
 Retrieved from [https://www.who.int/data/gho](https://www.who.int/data/gho)
+
+
+AI Assistance Statement:
+
+Parts of this report — including text refinement, structural organization, and code implementation — were supported by OpenAI’s GPT-5 model (ChatGPT, 2025). The analysis, data processing, and interpretation of results were conducted by the author.
