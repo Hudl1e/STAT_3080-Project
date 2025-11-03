@@ -1,5 +1,6 @@
 ---
-title: "Project Part 1 - Yushen Liu" 
+title: "Project Part 1"
+author: "Yushen Liu"
 fontsize: 12pt
 geometry: margin=1in
 urlcolor: black
@@ -74,6 +75,8 @@ The following research questions guide this analysis:
 - Is life expectancy at birth positively related to life expectancy at age 60 across countries?
 
 These questions are relevant beyond personal interest because they address global policy debates about health equity, efficiency of healthcare spending, and demographic differences in longevity. They examine measures of central tendency and association, focusing on mean life expectancy and its relationship with healthcare spending. The findings can contribute to a better understanding of how investments in healthcare relate to life outcomes, supporting evidence-based policymaking and international health planning.
+
+GitHub REPO: https://github.com/Hudl1e/STAT_3080-Project
 
 ## Data summary
 ### Primary Data Sources
